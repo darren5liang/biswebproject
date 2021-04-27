@@ -1,0 +1,6697 @@
+#vtkpxElectrodeMultiGridSource File
+#Description
+patient
+#Comment
+no additional comment
+#Number of Grids
+ 14 
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+GG_L_FRONT TEMP PARIETAL Grid
+#Dimensions
+ 8 8
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+1.000 0.502 0.502
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.6012 96.1208 128.8663
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.2244 106.0750 130.2820
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.6971 115.9448 132.0553
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.7907 125.8934 133.8884
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 166.7911 135.4477 135.2995
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 164.9138 145.3590 136.7123
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 162.7526 154.8864 137.8309
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 160.1237 164.6954 138.4898
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.1772 97.7884 119.4724
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.3212 107.5197 121.2660
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.3664 117.5136 123.0242
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.1940 127.4987 124.5057
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.3248 137.4025 126.0424
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 168.9353 147.2094 127.6970
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.5770 157.0593 129.1368
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 165.5737 166.9492 130.2666
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.9233 99.6057 109.7842
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.7033 109.4017 111.5124
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.0111 119.3350 113.3697
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.0263 129.3199 115.0916
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.1622 139.2629 116.5038
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.2971 149.3038 118.3476
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.5010 159.0118 120.2190
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.1799 168.9418 121.5789
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.3177 101.7750 100.0873
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.8536 111.3812 102.0526
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.7185 121.2466 103.9922
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.0301 131.2009 105.6166
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.6785 141.1736 107.1906
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.8635 151.0374 108.8371
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.8810 160.9374 110.8747
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.9800 170.8826 112.5508
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.5274 103.8017 90.2706
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.1946 113.4538 92.2262
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.3509 123.2439 94.0372
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.2474 133.2710 95.7277
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.2720 143.1288 97.3682
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.7195 153.0886 98.9529
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.4943 162.8588 101.0920
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.9941 172.8386 103.0883
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.9165 106.1082 80.6249
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.0604 115.6055 82.3150
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.4958 125.3939 84.0866
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.4342 135.1221 85.9154
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.3342 144.9553 87.7778
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.9047 154.9647 89.5055
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.5769 164.5847 91.5865
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.7646 174.4939 93.7030
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.3353 108.2075 70.3895
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.4531 117.6089 72.4472
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.6867 127.3933 74.7895
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.5670 137.3798 76.1446
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.9861 147.1711 77.8675
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.2765 156.9133 79.7460
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.8680 166.9812 82.6092
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.0398 176.0492 84.2864
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 169.6507 111.0933 61.4034
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 1 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.1708 120.3962 63.4137
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 2 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.4860 130.1683 64.5187
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 3 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.0037 139.5526 67.1058
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 4 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.3104 149.5556 68.4576
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 5 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.1020 158.2713 70.2703
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 6 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 169.5515 167.2363 72.1278
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 7 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 166.2440 177.4036 74.9917
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+AA_L_AMYGDALA DEPTH
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+1.000 0.000 0.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 175.9894 125.3040 74.4616
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+0
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 180.1731 118.1178 71.7555
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 178.8062 113.0715 73.4564
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.4829 111.9843 70.7310
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.2019 114.9623 71.9531
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 166.7509 116.7724 72.0172
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 162.0238 118.5530 72.2318
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 157.4812 120.0370 72.4329
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 152.7419 121.7466 72.6457
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 148.0532 123.3717 72.6526
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 143.5800 125.1266 72.5533
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 139.2318 127.0534 72.3287
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+HH_L_HIPPOCAMPAL DEPTH
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+1.000 0.000 1.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.3870 138.8626 65.8392
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.7844 134.1805 66.8556
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.7689 129.6501 69.0814
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.2662 126.9556 71.3020
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 176.9919 126.3742 75.2728
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.0262 125.6280 77.9073
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 166.1992 128.9651 79.6434
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 162.0798 131.6990 80.1203
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 157.8578 134.5203 79.9215
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 153.8793 137.5054 79.7081
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 149.9098 140.3302 79.5202
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 145.9746 143.1948 79.4222
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+AMT_L_ANT MED TEMPORALSTRIP
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 1.000 0.251
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 172.4444 101.9839 80.3007
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 165.8193 97.1230 74.4764
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 158.1810 96.0022 68.5776
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 150.0871 99.1241 63.8889
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 144.1250 105.9676 60.4241
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 142.3900 115.5196 58.6805
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 145.4279 125.0205 59.1493
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 149.9925 133.6699 61.2341
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 155.2664 141.7932 62.1309
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 159.2011 150.3208 62.2002
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 164.3223 159.9606 63.8056
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.9480 167.7902 68.8668
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+ATP_L_ANT TEMP POLE
+#Dimensions
+ 1 4
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 1.000 1.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 171.0409 108.4126 65.5371
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 166.9491 107.7348 57.2796
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 157.8992 110.3409 54.6561
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 146.9571 112.0321 58.7612
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+MT_L_MID TEMPERAL STRIP
+#Dimensions
+ 1 6
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+1.000 0.502 0.251
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 181.2737 123.0243 71.6349
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 174.2323 122.3970 65.3788
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.1742 122.3600 56.7448
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 163.7666 120.7187 50.1695
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 155.1508 115.7489 50.9346
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 149.4988 109.8674 50.2138
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+PT_L_POST TEMPERAL STRIP
+#Dimensions
+ 1 6
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.502 0.000 0.251
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 177.0447 142.8967 75.9490
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.5634 141.8453 65.9613
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 165.8074 141.2247 61.7464
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 155.2664 141.7932 62.1309
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 146.3215 140.9430 65.0561
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 137.1214 140.5862 68.8164
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+PTO_L_POST TEMP OCCIPITAL STRIP
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 0.000 1.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.4713 165.9631 70.3872
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 162.7296 169.0126 66.8482
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 152.8261 170.8711 66.8858
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 143.2593 171.2448 69.7304
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 135.2591 171.2865 74.8572
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 128.1495 171.4773 82.2996
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 123.7669 172.1434 90.8645
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 121.2505 173.2600 100.7180
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 120.6740 174.3241 110.6438
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 120.6345 176.0364 120.3276
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 122.2491 177.7513 130.2905
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 125.4832 179.4187 139.8605
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+ITO_L_INF TEMP OCCIPITAL STRIP
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.502 0.000 1.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 173.8680 166.9812 82.6092
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 170.0342 175.5184 79.3473
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 165.2873 182.9325 74.2758
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 158.8487 189.7716 70.8695
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 151.2266 195.8881 68.7241
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 142.8169 201.1926 67.1641
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 133.5620 204.6927 67.8291
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 124.5320 204.6106 71.3758
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 119.0889 200.3205 77.8383
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 118.2087 194.0686 85.6704
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 119.4413 188.1268 93.7164
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 120.2584 182.4116 102.2065
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+OP_L_OCCIPITAL POLE STRIP
+#Dimensions
+ 1 8
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 0.251 0.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 167.1920 185.5746 90.0245
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 161.8302 193.8170 87.3188
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 155.1695 200.7691 85.0296
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 146.7283 205.6674 83.2740
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 137.2630 208.3812 82.0949
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 127.1069 209.2116 82.2561
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 119.3468 205.3113 86.6517
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 117.7477 198.4805 93.6772
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+PF_L_FRONTAL POLE
+#Dimensions
+ 1 8
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+1.000 1.000 0.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 159.5942 75.5072 120.0278
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 156.9816 66.6164 116.2018
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 152.6849 59.4579 111.2232
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 146.3944 55.8436 104.7564
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 139.1347 54.5744 97.9480
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 132.4460 57.8077 91.2802
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 128.1569 63.8292 84.6662
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 126.4728 71.2890 77.9235
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+OF_L_ORBITAL FLOOR STRIP
+#Dimensions
+ 1 12
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.502 0.251 0.000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 168.6825 86.7379 93.2942
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 165.3035 79.0374 88.0315
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 158.7386 72.1469 86.6228
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 150.7367 66.2564 87.7284
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 4
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 142.8096 60.8745 90.1350
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 5
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 135.0503 57.8515 94.9182
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 6
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 129.8163 60.0765 102.3804
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 7
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 128.0306 64.9361 110.8694
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 8
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 127.8208 70.4824 119.1951
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 9
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 127.7322 76.0348 127.3989
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 10
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 127.7580 81.9500 135.5591
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 11
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 128.9431 88.2933 143.4341
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 12
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+L_POST PARIETAL GROUND 
+#Dimensions
+ 1 4
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 0.502 0.502
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 156.0114 188.0997 125.6007
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 152.6200 195.1352 119.2609
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 2
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 147.8712 200.4089 112.1586
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 3
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 142.9616 205.3005 104.7086
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode Grid 13
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeGridSource File v2
+#Description
+L_FRONTAL BONE GROUND
+#Dimensions
+ 1 2
+#Electrode Spacing
+ 10.0000 10.0000
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Color
+0.000 0.502 0.502
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 0
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 130.0506 89.8460 160.8199
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
+#- - - - - - - - - - - - - - - - - - -
+# Electrode 0 1
+- - - - - - - - - - - - - - - - - - -
+#vtkpxElectrodeSource2 File
+#Position
+ 129.4374 80.5634 156.9164
+#Normal
+ 1.0000 0.0000 0.0000
+#Motor Function
+0
+#Sensory Function
+0
+#Visual Function
+0
+#Language Function
+0
+#Auditory Function
+0
+#User1 Function
+0
+#User2 Function
+0
+#Seizure Onset
+0
+#Spikes Present
+0
+#Electrode Present
+1
+#Electrode Type
+0
+#Radius 
+2.000000
+#Thickeness
+0.050000
+#Values
+1
+0.000000
